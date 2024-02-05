@@ -1,0 +1,6 @@
+[submodule "python"]
+	path = python
+	url = https://github.com/tiram-isu/python.git
+[submodule "unity"]
+	path = unity
+	url = https://github.com/tiram-isu/unity.git
